@@ -1,4 +1,4 @@
-# React Animation Playground
+# React Project
 
 This is a React Animation Playground web application built with React. The goal of this project practice with framer-motion library. Also this project includes repeating of React Router and React Context knowledges.
 
